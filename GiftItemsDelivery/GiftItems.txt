@@ -1,0 +1,3 @@
+dryFruits:200,chocolates:50,sweets:50 = 1000
+chocolates:50,sweets:50=500
+dryFruits:20,sweets:20=250

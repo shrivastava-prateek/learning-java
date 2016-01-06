@@ -1,0 +1,10 @@
+Hello,  this is a first line.
+And this is a second line.
+and this is a last line.
+boom.     
+        there are.       many.       spaces.                     in.       this 
+
+document
+
+
+
