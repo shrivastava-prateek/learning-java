@@ -13,7 +13,6 @@ class Sample
 	}
 	public static void main(String[] args)throws NumberFormatException
 	{
-		//	RandomTesting ran="few";
 		int x,y,z=10;
 		//System.out.println(x);//error variable x,y may not have an initialised,
 		//int p=q=r=9;//unknown variable q,r

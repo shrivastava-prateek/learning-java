@@ -11,6 +11,9 @@ public class StringTest
 				String g="a";
 				String h="a,,,";
 				String j="a,,,h";
+				String i1="a       h";
+				String[] i2=i1.split(" ");
+				System.out.println(i2[0]+i2[1]+i2[2]);
 				String[] i=h.split(",");//length is 1
 				String[] k=j.split(",");//length is 4, k[1]&k[2] is ""
 				//NullPointerException
