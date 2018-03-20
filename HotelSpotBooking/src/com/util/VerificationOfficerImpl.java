@@ -11,7 +11,6 @@ import com.bean.Customer;
 import com.bean.HotelRoom;
 import com.bean.Room_type;
 import com.bean.Status;
-import com.exceptions.MoreThanMaxAdults;
 import com.exceptions.*;
 
 public class VerificationOfficerImpl  implements ReceptionManagerImpl
@@ -21,30 +20,50 @@ public class VerificationOfficerImpl  implements ReceptionManagerImpl
 	static int id=0;
 	float commision;
 
-	public List<HotelRoom> search_myroom(int budget, int norooms, int noadults) throws MoreThanMaxAdults, NoBudgettedRoomsAvailable
+	public List<HotelRoom> search_myroom(int budget, int norooms, int noadults) throws MoreThanMaxAdults, LowBudgetException, TooManyRoomsException
 	{
 		List<HotelRoom> return_list =new ArrayList<HotelRoom>();
 
 		HolidaySpotAdminImpl  hs= new HolidaySpotAdminImpl();
     	List<HotelRoom> list=hs.populatedata();
-		int flag=0;
-	
+    	int maxAR = 0,minbudget=0;int flag=0;
     	for (HotelRoom h:list)
     	{
+    		if(flag==0)
+    		{
+    			flag=1;
+    			minbudget=h.getPrice();
+    		}
+    		if(h.getAvailable_rooms()>maxAR)
+    		{
+    			maxAR=h.getAvailable_rooms();
+    		}
+    		if(h.getPrice()<minbudget)
+    		{
+    			minbudget=h.getPrice();
+    		}
+    		
     		if (h.getPrice() <= budget && h.getAvailable_rooms() >= norooms)
 			{
 				if(noadults<=3*norooms){
 				return_list.add(h);
-				flag = 1;
 				}
 				else{
 					throw new MoreThanMaxAdults();
 				}
 			}
 		}
-		if (flag == 0)
+		if (return_list.size() == 0)
 		{
-			throw new NoBudgettedRoomsAvailable();
+			if(budget<minbudget)
+			{
+				throw new LowBudgetException();
+			}
+			else
+			{
+				throw new TooManyRoomsException();
+			}
+			
 			
     	}
 		return return_list;

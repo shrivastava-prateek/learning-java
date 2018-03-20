@@ -1,0 +1,788 @@
+2015-12-28 12:39:53,541 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2015-12-28 12:39:54,757 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2015-12-28 12:39:56,354 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2015-12-28 12:39:56,708 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2015-12-28 12:39:58,987 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2015-12-28 12:39:59,952 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2015-12-28 12:40:00,293 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2015-12-28 12:40:01,398 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2015-12-28 12:40:02,322 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2015-12-28 12:40:03,449 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2015-12-28 12:40:03,895 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2015-12-28 12:40:04,580 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2015-12-28 12:40:05,024 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2015-12-28 12:40:05,705 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2015-12-28 12:40:06,162 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2015-12-28 12:40:06,839 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2015-12-28 12:40:07,272 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2015-12-28 12:40:08,516 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2015-12-28 12:40:09,050 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2015-12-28 12:40:09,686 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2015-12-28 12:40:10,060 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom
+2015-12-28 12:40:10,736 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom
+2015-12-28 12:40:11,221 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom
+2015-12-28 12:40:11,863 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.pom
+2015-12-28 12:40:12,202 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.9/maven-2.0.9.pom
+2015-12-28 12:40:12,867 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.9/maven-2.0.9.pom
+2015-12-28 12:40:13,223 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/8/maven-parent-8.pom
+2015-12-28 12:40:13,975 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/8/maven-parent-8.pom
+2015-12-28 12:40:14,361 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom
+2015-12-28 12:40:14,998 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.9/maven-artifact-2.0.9.pom
+2015-12-28 12:40:15,427 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom
+2015-12-28 12:40:16,063 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom
+2015-12-28 12:40:16,521 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom
+2015-12-28 12:40:17,169 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.pom
+2015-12-28 12:40:17,521 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+2015-12-28 12:40:18,187 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+2015-12-28 12:40:18,608 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom
+2015-12-28 12:40:19,245 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.pom
+2015-12-28 12:40:19,593 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom
+2015-12-28 12:40:20,223 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.pom
+2015-12-28 12:40:20,566 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom
+2015-12-28 12:40:21,205 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.pom
+2015-12-28 12:40:21,595 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom
+2015-12-28 12:40:22,220 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.pom
+2015-12-28 12:40:22,565 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom
+2015-12-28 12:40:23,234 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.pom
+2015-12-28 12:40:23,586 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom
+2015-12-28 12:40:24,232 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.pom
+2015-12-28 12:40:24,613 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom
+2015-12-28 12:40:25,240 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.pom
+2015-12-28 12:40:25,593 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom
+2015-12-28 12:40:26,247 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.pom
+2015-12-28 12:40:26,598 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom
+2015-12-28 12:40:27,221 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.pom
+2015-12-28 12:40:28,017 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2015-12-28 12:40:28,654 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2015-12-28 12:40:29,019 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2015-12-28 12:40:29,676 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2015-12-28 12:40:30,019 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2015-12-28 12:40:30,649 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.20/plexus-components-1.1.20.pom
+2015-12-28 12:40:30,970 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom
+2015-12-28 12:40:31,625 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.pom
+2015-12-28 12:40:32,001 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2015-12-28 12:40:32,618 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2015-12-28 12:40:32,977 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2015-12-28 12:40:33,604 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2015-12-28 12:40:33,932 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2015-12-28 12:40:34,571 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2015-12-28 12:40:34,979 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+2015-12-28 12:40:36,314 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+2015-12-28 12:40:36,615 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2015-12-28 12:40:37,278 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2015-12-28 12:40:37,621 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2015-12-28 12:40:38,327 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2015-12-28 12:40:38,629 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2015-12-28 12:40:39,285 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2015-12-28 12:40:39,687 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2015-12-28 12:40:40,019 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:PersistentApp:1.0-SNAPSHOT @ C:\Users\Administrator\Maven_Examples\PersistentApp\pom.xml.
+2015-12-28 12:40:40,612 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2015-12-28 12:40:41,249 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2015-12-28 12:40:41,598 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom
+2015-12-28 12:40:42,265 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom
+2015-12-28 12:40:42,357 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:PersistentApp:1.0-SNAPSHOT @ C:\Users\Administrator\Maven_Examples\PersistentApp\pom.xml.
+2015-12-28 12:40:42,724 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+2015-12-28 12:40:43,365 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+2015-12-28 12:40:43,705 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+2015-12-28 12:40:44,370 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+2015-12-28 12:40:44,722 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2015-12-28 12:40:45,364 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2015-12-28 12:40:45,767 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom
+2015-12-28 12:40:46,395 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.pom
+2015-12-28 12:40:46,772 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom
+2015-12-28 12:40:47,417 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.pom
+2015-12-28 12:40:47,752 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/10/spice-parent-10.pom
+2015-12-28 12:40:48,370 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/10/spice-parent-10.pom
+2015-12-28 12:40:48,700 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/3/forge-parent-3.pom
+2015-12-28 12:40:49,328 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/3/forge-parent-3.pom
+2015-12-28 12:40:49,664 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom
+2015-12-28 12:40:50,288 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.pom
+2015-12-28 12:40:50,631 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom
+2015-12-28 12:40:51,258 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.pom
+2015-12-28 12:40:51,668 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar
+2015-12-28 12:40:52,312 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar
+2015-12-28 12:40:52,626 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar
+2015-12-28 12:40:53,485 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar
+2015-12-28 12:40:53,783 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.0/commons-cli-1.0.jar
+2015-12-28 12:40:54,471 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.0/commons-cli-1.0.jar
+2015-12-28 12:40:54,773 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar
+2015-12-28 12:40:55,425 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar
+2015-12-28 12:40:55,726 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+2015-12-28 12:40:57,460 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+2015-12-28 12:40:57,779 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2015-12-28 12:40:58,685 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2015-12-28 12:40:59,198 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar
+2015-12-28 12:41:00,073 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.4/plexus-build-api-0.0.4.jar
+2015-12-28 12:41:00,666 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar
+2015-12-28 12:41:02,011 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.13/plexus-interpolation-1.13.jar
+2015-12-28 12:41:05,998 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersistentApp/src/main/java
+2015-12-28 12:41:06,012 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersistentApp/src/test/java
+2015-12-28 12:41:06,269 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 77 sec
+2015-12-28 12:41:07,323 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:PersistentApp:1.0-SNAPSHOT @ C:\Users\Administrator\Maven_Examples\PersistentApp\pom.xml.
+2015-12-28 12:41:07,448 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 12:41:07,448 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\main\resources
+2015-12-28 12:41:07,463 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 12:41:07,463 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\test\resources
+2015-12-28 12:50:44,387 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:PersistentApp:1.0-SNAPSHOT @ C:\Users\Administrator\Maven_Examples\PersistentApp\pom.xml.
+2015-12-28 12:50:45,059 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 12:50:45,060 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\main\resources
+2015-12-28 12:50:45,062 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 12:50:45,062 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\test\resources
+2015-12-28 12:51:09,877 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-12-28 12:51:09,998 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:PersistentApp:1.0-SNAPSHOT @ C:\Users\Administrator\Maven_Examples\PersistentApp\pom.xml.
+2015-12-28 12:51:10,088 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersistentApp/src/main/java
+2015-12-28 12:51:10,089 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PersistentApp/src/test/java
+2015-12-28 12:51:10,245 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-12-28 12:51:10,491 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 12:51:10,491 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\main\resources
+2015-12-28 12:51:10,503 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 12:51:10,503 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\test\resources
+2015-12-28 14:07:02,302 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2015-12-28 14:07:03,371 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2015-12-28 14:08:10,947 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\pom.xml
+2015-12-28 14:08:11,182 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:01_Maven_Sample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\pom.xml.
+2015-12-28 14:08:12,388 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Maven_Sample/src/main/java
+2015-12-28 14:08:12,401 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /01_Maven_Sample/src/test/java
+2015-12-28 14:08:12,530 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-12-28 14:08:13,326 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:01_Maven_Sample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\pom.xml.
+2015-12-28 14:08:13,862 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:08:13,865 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:08:13,872 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:08:13,872 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:08:14,463 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:01_Maven_Sample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\pom.xml.
+2015-12-28 14:08:15,081 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:08:15,082 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:08:15,083 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:08:15,083 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:09:06,894 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 14:09:26,410 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample
+2015-12-28 14:09:26,411 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" 
+2015-12-28 14:09:46,909 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-12-28 14:10:24,424 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample
+2015-12-28 14:10:24,425 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" compile
+2015-12-28 14:10:41,472 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-12-28 14:10:41,535 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample
+2015-12-28 14:10:41,538 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" compile
+2015-12-28 14:11:06,109 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 14:11:16,577 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample
+2015-12-28 14:11:16,577 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" test
+2015-12-28 14:13:49,074 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 14:13:55,958 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample
+2015-12-28 14:13:55,958 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" package
+2015-12-28 14:17:36,339 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:36,355 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:17:36,355 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:36,355 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:17:36,464 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:36,464 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\main\resources
+2015-12-28 14:17:36,464 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:36,464 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\test\resources
+2015-12-28 14:17:37,215 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:37,215 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:17:37,215 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:37,215 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:17:37,324 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:37,324 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\main\resources
+2015-12-28 14:17:37,324 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:37,324 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\test\resources
+2015-12-28 14:17:56,663 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:01_Maven_Sample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\pom.xml.
+2015-12-28 14:17:56,796 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:56,797 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:17:56,799 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:17:56,799 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:18:04,390 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 14:18:11,036 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample
+2015-12-28 14:18:11,036 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" package
+2015-12-28 14:19:40,614 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:19:40,615 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:19:40,616 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:19:40,616 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:28:16,690 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:28:16,690 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:28:16,690 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:28:16,690 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:28:16,706 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:28:16,706 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\main\resources
+2015-12-28 14:28:16,706 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:28:16,706 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Maven_Examples\PersistentApp\src\test\resources
+2015-12-28 14:49:37,811 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:01_Maven_Sample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\pom.xml.
+2015-12-28 14:49:50,596 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 14:49:58,938 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2015-12-28 14:49:59,829 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:49:59,829 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:49:59,829 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:49:59,829 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:50:03,419 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample
+2015-12-28 14:50:03,419 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" compile
+2015-12-28 14:50:03,669 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:50:03,669 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:50:03,669 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:50:03,669 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:51:32,646 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:01_Maven_Sample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\pom.xml.
+2015-12-28 14:52:10,114 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2015-12-28 14:52:14,230 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2015-12-28 14:52:17,058 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:52:17,058 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:52:17,058 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:52:17,058 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:52:19,449 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:52:19,449 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:52:19,449 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:52:19,449 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:53:23,735 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:53:23,735 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 14:53:23,735 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 14:53:23,735 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 14:53:30,863 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 14:53:34,363 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample
+2015-12-28 14:53:34,363 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" compile
+2015-12-28 14:54:32,866 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/maven-metadata.xml
+2015-12-28 14:54:32,928 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/maven-metadata.xml
+2015-12-28 14:54:32,975 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2015-12-28 14:54:33,053 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2015-12-28 14:55:00,779 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2015-12-28 14:55:02,044 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2015-12-28 14:55:02,138 [pool-2-thread-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/Users/Administrator/.m2/repository/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2015-12-28 14:55:02,185 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\pom.xml
+2015-12-28 14:55:02,795 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2015-12-28 14:55:03,045 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2015-12-28 14:55:03,497 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:02_Maven_Web:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\pom.xml.
+2015-12-28 14:55:04,091 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2015-12-28 14:55:04,231 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2015-12-28 14:55:05,093 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2015-12-28 14:55:05,875 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2015-12-28 14:55:06,406 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2015-12-28 14:55:08,308 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2015-12-28 14:55:12,416 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2015-12-28 14:55:12,824 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2015-12-28 14:55:13,656 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2015-12-28 14:55:14,282 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2015-12-28 14:55:14,634 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2015-12-28 14:55:14,971 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2015-12-28 14:55:16,534 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /02_Maven_Web/src/main/java
+2015-12-28 14:55:16,535 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /02_Maven_Web/src/main/resources
+2015-12-28 14:55:16,535 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /02_Maven_Web/src/test/java
+2015-12-28 14:55:17,426 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:02_Maven_Web:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\pom.xml.
+2015-12-28 14:55:30,665 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 28 sec
+2015-12-28 14:55:31,118 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2015-12-28 14:55:31,172 [Worker-50] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2015-12-28 14:55:33,129 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:02_Maven_Web:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\pom.xml.
+2015-12-28 14:55:33,387 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 14:55:33,419 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 14:55:33,420 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 14:55:33,444 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\src\test\resources
+2015-12-28 15:02:19,401 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:02_Maven_Web:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\pom.xml.
+2015-12-28 15:02:21,824 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2015-12-28 15:02:21,902 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2015-12-28 15:02:22,355 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2015-12-28 15:02:22,417 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2015-12-28 15:02:22,479 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2015-12-28 15:02:22,558 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2015-12-28 15:02:22,893 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:02:22,909 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:02:22,940 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:02:22,940 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\src\test\resources
+2015-12-28 15:02:22,940 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 02_Maven_Web
+2015-12-28 15:02:22,940 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 02_Maven_Web
+2015-12-28 15:02:22,987 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:02:24,205 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:02:24,205 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:02:24,205 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:02:24,221 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\src\test\resources
+2015-12-28 15:02:58,888 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:02_Maven_Web:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\pom.xml.
+2015-12-28 15:02:59,076 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:02:59,091 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:02:59,091 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:03:00,092 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\src\test\resources
+2015-12-28 15:03:00,092 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 02_Maven_Web
+2015-12-28 15:03:00,092 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 02_Maven_Web
+2015-12-28 15:03:00,092 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:09:32,380 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/maven-metadata.xml
+2015-12-28 15:09:32,454 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/maven-metadata.xml
+2015-12-28 15:09:32,795 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.pom
+2015-12-28 15:09:35,817 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.pom
+2015-12-28 15:09:37,564 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.26/project-6.1.26.pom
+2015-12-28 15:09:37,614 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/project/6.1.26/project-6.1.26.pom
+2015-12-28 15:09:37,670 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-parent/10/jetty-parent-10.pom
+2015-12-28 15:09:37,720 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/jetty-parent/10/jetty-parent-10.pom
+2015-12-28 15:09:39,762 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-parent/14/jetty-parent-14.pom
+2015-12-28 15:09:39,807 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-parent/14/jetty-parent-14.pom
+2015-12-28 15:09:39,856 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.jar
+2015-12-28 15:09:39,922 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mortbay/jetty/maven-jetty-plugin/6.1.26/maven-jetty-plugin-6.1.26.jar
+2015-12-28 15:09:45,158 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:02_Maven_Web:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\pom.xml.
+2015-12-28 15:09:45,323 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:09:45,331 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:09:45,333 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:09:45,337 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\src\test\resources
+2015-12-28 15:09:45,337 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 02_Maven_Web
+2015-12-28 15:09:45,337 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 02_Maven_Web
+2015-12-28 15:09:45,342 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:09:59,026 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 15:10:06,631 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web
+2015-12-28 15:10:06,632 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" jetty.run
+2015-12-28 15:10:46,681 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 15:11:27,984 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web
+2015-12-28 15:11:27,984 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" jetty:run
+2015-12-28 15:30:26,517 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 15:30:41,716 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web
+2015-12-28 15:30:41,717 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" package
+2015-12-28 15:31:16,280 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:31:16,286 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:31:16,287 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:31:16,291 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\02_Maven_Web\src\test\resources
+2015-12-28 15:55:14,593 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: PersistentSample:BaseProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\pom.xml.
+2015-12-28 15:55:16,017 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: PersistentSample:BaseProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\pom.xml.
+2015-12-28 15:57:55,028 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChilProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChilProject\pom.xml.
+2015-12-28 15:57:57,138 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ChilProject/src/main/java
+2015-12-28 15:57:57,153 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ChilProject/src/main/resources
+2015-12-28 15:57:57,153 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ChilProject/src/test/java
+2015-12-28 15:57:57,153 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ChilProject/src/test/resources
+2015-12-28 15:57:57,999 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChilProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChilProject\pom.xml.
+2015-12-28 15:58:01,800 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:58:01,800 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:58:01,800 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:58:01,815 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:58:26,887 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChilProject\pom.xml.
+2015-12-28 15:58:27,105 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:58:27,105 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:58:27,105 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:58:27,105 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:58:42,138 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 15:58:42,200 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:58:42,200 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:58:42,200 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:58:42,200 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:58:42,543 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 15:58:43,403 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:58:43,419 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:58:43,419 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:58:43,419 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:59:02,388 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 15:59:02,450 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:59:02,466 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 15:59:02,481 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 15:59:02,481 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:01:00,846 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: PersistentSample:BaseProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\pom.xml.
+2015-12-28 16:01:00,924 [Worker-74] ERROR o.e.m.c.internal.embedder.MavenImpl - Could not read parent project
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.hbernate:hibernate-tools:jar is missing. @ line 11, column 17
+
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:179) ~[maven-core-3.2.1.jar:3.2.1]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:312) ~[maven-core-3.2.1.jar:3.2.1]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:270) ~[maven-core-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolveParentProject(MavenImpl.java:681) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$4.call(MavenImpl.java:702) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$4.call(MavenImpl.java:1) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:109) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolveParentProject(MavenImpl.java:700) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.getPomMappingMetadataSources(LifecycleMappingFactory.java:807) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.getProjectMetadataSourcesMap(LifecycleMappingFactory.java:275) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.getProjectMetadataSources(LifecycleMappingFactory.java:253) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateEffectiveLifecycleMappingMetadata(LifecycleMappingFactory.java:237) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateLifecycleMapping(LifecycleMappingFactory.java:178) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.setupLifecycleMapping(ProjectRegistryManager.java:554) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:481) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:460) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:464) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for PersistentSample:BaseProject:0.0.1-SNAPSHOT
+[ERROR] 'dependencies.dependency.version' for org.hbernate:hibernate-tools:jar is missing. @ line 11, column 17
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:195) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:416) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:368) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:359) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:145) ~[maven-core-3.2.1.jar:3.2.1]
+	... 41 common frames omitted
+2015-12-28 16:01:01,018 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 16:01:28,091 [Worker-81] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hbernate/hibernate-tools//hibernate-tools-.pom
+2015-12-28 16:01:28,107 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar: is missing, no dependency information available
+2015-12-28 16:02:15,391 [Worker-81] ERROR o.e.m.c.u.i.actions.OpenPomAction - Could not resolve artifact org.hbernate:hibernate-tools:pom:
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.hbernate:hibernate-tools:pom:
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:736) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:713) ~[org.eclipse.m2e.core_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.OpenPomAction.openEditor(OpenPomAction.java:211) ~[org.eclipse.m2e.core.ui_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.OpenPomAction$1.run(OpenPomAction.java:116) [org.eclipse.m2e.core.ui_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.1.v20141014-1248.jar:na]
+2015-12-28 16:02:56,548 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: PersistentSample:BaseProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\pom.xml.
+2015-12-28 16:03:14,767 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hbernate/hibernate-tools/4.3.1.Final/hibernate-tools-4.3.1.Final.pom
+2015-12-28 16:03:14,783 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:03:18,034 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hbernate/hibernate-tools/4.3.1.Final/hibernate-tools-4.3.1.Final.jar
+2015-12-28 16:03:18,097 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 16:03:18,332 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:03:18,348 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:03:18,363 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:03:18,379 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:03:18,394 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:03:18,394 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:03:18,394 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:04:50,108 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 16:04:50,108 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:04:50,201 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:04:50,217 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:04:50,217 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:04:50,217 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:06:27,708 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:06:27,881 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 16:06:27,975 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:06:28,053 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:06:28,053 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:06:28,053 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:06:28,069 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:06:44,678 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: PersistentSample:BaseProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\pom.xml.
+2015-12-28 16:06:44,759 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 16:06:44,759 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:06:44,931 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:06:44,962 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:06:44,962 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:06:44,962 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:06:44,962 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:13:31,011 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: PersistentSample:BaseProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\pom.xml.
+2015-12-28 16:13:31,089 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 16:13:31,120 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:13:31,354 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hbernate:hibernate-tools:jar:4.3.1.Final is missing, no dependency information available
+2015-12-28 16:13:31,401 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:13:31,401 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:13:31,401 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:13:31,417 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:14:24,275 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 16:14:33,204 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject
+2015-12-28 16:14:33,204 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" compile
+2015-12-28 16:16:02,319 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 16:16:02,475 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-tools/4.3.1.Final/hibernate-tools-4.3.1.Final.pom
+2015-12-28 16:16:02,537 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-tools/4.3.1.Final/hibernate-tools-4.3.1.Final.pom
+2015-12-28 16:16:02,584 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2015-12-28 16:16:02,631 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2015-12-28 16:16:02,677 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.10.Final/hibernate-core-4.3.10.Final.pom
+2015-12-28 16:16:02,724 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.10.Final/hibernate-core-4.3.10.Final.pom
+2015-12-28 16:16:02,776 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2015-12-28 16:16:02,838 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2015-12-28 16:16:02,901 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.pom
+2015-12-28 16:16:02,948 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.pom
+2015-12-28 16:16:02,994 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-tools-parent/1.2.0.Beta1/jboss-logging-tools-parent-1.2.0.Beta1.pom
+2015-12-28 16:16:03,057 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-tools-parent/1.2.0.Beta1/jboss-logging-tools-parent-1.2.0.Beta1.pom
+2015-12-28 16:16:03,104 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/10/jboss-parent-10.pom
+2015-12-28 16:16:03,400 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/10/jboss-parent-10.pom
+2015-12-28 16:16:03,962 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.pom
+2015-12-28 16:16:06,950 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.pom
+2015-12-28 16:16:07,496 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2015-12-28 16:16:07,668 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2015-12-28 16:16:08,940 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.pom
+2015-12-28 16:16:09,174 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.pom
+2015-12-28 16:16:09,502 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2015-12-28 16:16:09,847 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2015-12-28 16:16:10,502 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.pom
+2015-12-28 16:16:10,910 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.pom
+2015-12-28 16:16:10,988 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2015-12-28 16:16:11,316 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2015-12-28 16:16:11,362 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.10.Final/hibernate-entitymanager-4.3.10.Final.pom
+2015-12-28 16:16:11,456 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.10.Final/hibernate-entitymanager-4.3.10.Final.pom
+2015-12-28 16:16:11,487 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.pom
+2015-12-28 16:16:11,565 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.pom
+2015-12-28 16:16:11,612 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.pom
+2015-12-28 16:16:11,659 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.pom
+2015-12-28 16:16:11,722 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom
+2015-12-28 16:16:11,832 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom
+2015-12-28 16:16:11,879 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.pom
+2015-12-28 16:16:11,942 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.pom
+2015-12-28 16:16:11,973 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom
+2015-12-28 16:16:12,051 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom
+2015-12-28 16:16:12,113 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom
+2015-12-28 16:16:12,269 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom
+2015-12-28 16:16:13,519 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/freemarker/freemarker/2.3.8/freemarker-2.3.8.pom
+2015-12-28 16:16:15,255 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/freemarker/freemarker/2.3.8/freemarker-2.3.8.pom
+2015-12-28 16:16:15,442 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/jtidy/r8-20060801/jtidy-r8-20060801.pom
+2015-12-28 16:16:15,629 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/jtidy/r8-20060801/jtidy-r8-20060801.pom
+2015-12-28 16:16:16,021 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/tycho/org.eclipse.jdt.core/3.9.1.v20130905-0837/org.eclipse.jdt.core-3.9.1.v20130905-0837.pom
+2015-12-28 16:16:16,692 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/tycho/org.eclipse.jdt.core/3.9.1.v20130905-0837/org.eclipse.jdt.core-3.9.1.v20130905-0837.pom
+2015-12-28 16:16:17,020 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/text/3.3.0-v20070606-0010/text-3.3.0-v20070606-0010.pom
+2015-12-28 16:16:17,191 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/text/3.3.0-v20070606-0010/text-3.3.0-v20070606-0010.pom
+2015-12-28 16:16:17,269 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/commands/maven-metadata.xml
+2015-12-28 16:16:17,363 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/commands/maven-metadata.xml
+2015-12-28 16:16:17,410 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/commands/3.2.0-I20060605-1400/commands-3.2.0-I20060605-1400.pom
+2015-12-28 16:16:17,456 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/commands/3.2.0-I20060605-1400/commands-3.2.0-I20060605-1400.pom
+2015-12-28 16:16:17,503 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/common/maven-metadata.xml
+2015-12-28 16:16:17,550 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/common/maven-metadata.xml
+2015-12-28 16:16:17,597 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/common/3.6.200-v20130402-1505/common-3.6.200-v20130402-1505.pom
+2015-12-28 16:16:17,644 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/common/3.6.200-v20130402-1505/common-3.6.200-v20130402-1505.pom
+2015-12-28 16:16:17,706 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/commands/3.3.0-I20070605-0010/commands-3.3.0-I20070605-0010.pom
+2015-12-28 16:16:17,755 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/commands/3.3.0-I20070605-0010/commands-3.3.0-I20070605-0010.pom
+2015-12-28 16:16:17,802 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/runtime/3.9.0-v20130326-1255/runtime-3.9.0-v20130326-1255.pom
+2015-12-28 16:16:17,880 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/runtime/3.9.0-v20130326-1255/runtime-3.9.0-v20130326-1255.pom
+2015-12-28 16:16:17,926 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/osgi/maven-metadata.xml
+2015-12-28 16:16:17,989 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/osgi/maven-metadata.xml
+2015-12-28 16:16:18,036 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/osgi/3.9.1-v20130814-1242/osgi-3.9.1-v20130814-1242.pom
+2015-12-28 16:16:18,082 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/osgi/3.9.1-v20130814-1242/osgi-3.9.1-v20130814-1242.pom
+2015-12-28 16:16:18,129 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/osgi/3.9.1-v20140110-1610/osgi-3.9.1-v20140110-1610.pom
+2015-12-28 16:16:18,176 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/osgi/3.9.1-v20140110-1610/osgi-3.9.1-v20140110-1610.pom
+2015-12-28 16:16:18,223 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/osgi/3.10.0-v20140606-1445/osgi-3.10.0-v20140606-1445.pom
+2015-12-28 16:16:18,270 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/osgi/3.10.0-v20140606-1445/osgi-3.10.0-v20140606-1445.pom
+2015-12-28 16:16:18,332 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/jobs/maven-metadata.xml
+2015-12-28 16:16:18,379 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/jobs/maven-metadata.xml
+2015-12-28 16:16:18,410 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/jobs/3.5.300-v20130429-1813/jobs-3.5.300-v20130429-1813.pom
+2015-12-28 16:16:18,488 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/jobs/3.5.300-v20130429-1813/jobs-3.5.300-v20130429-1813.pom
+2015-12-28 16:16:18,535 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/jobs/3.6.0-v20140424-0053/jobs-3.6.0-v20140424-0053.pom
+2015-12-28 16:16:18,582 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/jobs/3.6.0-v20140424-0053/jobs-3.6.0-v20140424-0053.pom
+2015-12-28 16:16:18,613 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/registry/maven-metadata.xml
+2015-12-28 16:16:18,660 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/registry/maven-metadata.xml
+2015-12-28 16:16:18,691 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/registry/3.5.301-v20130717-1549/registry-3.5.301-v20130717-1549.pom
+2015-12-28 16:16:18,755 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/registry/3.5.301-v20130717-1549/registry-3.5.301-v20130717-1549.pom
+2015-12-28 16:16:18,802 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/registry/3.5.400-v20140428-1507/registry-3.5.400-v20140428-1507.pom
+2015-12-28 16:16:18,849 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/registry/3.5.400-v20140428-1507/registry-3.5.400-v20140428-1507.pom
+2015-12-28 16:16:18,896 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/preferences/maven-metadata.xml
+2015-12-28 16:16:18,958 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/preferences/maven-metadata.xml
+2015-12-28 16:16:18,989 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/preferences/3.5.100-v20130422-1538/preferences-3.5.100-v20130422-1538.pom
+2015-12-28 16:16:19,052 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/preferences/3.5.100-v20130422-1538/preferences-3.5.100-v20130422-1538.pom
+2015-12-28 16:16:19,098 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/preferences/3.5.200-v20140224-1527/preferences-3.5.200-v20140224-1527.pom
+2015-12-28 16:16:19,130 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/preferences/3.5.200-v20140224-1527/preferences-3.5.200-v20140224-1527.pom
+2015-12-28 16:16:19,161 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/contenttype/maven-metadata.xml
+2015-12-28 16:16:19,223 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/contenttype/maven-metadata.xml
+2015-12-28 16:16:19,255 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/contenttype/3.4.200-v20130326-1255/contenttype-3.4.200-v20130326-1255.pom
+2015-12-28 16:16:19,334 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/contenttype/3.4.200-v20130326-1255/contenttype-3.4.200-v20130326-1255.pom
+2015-12-28 16:16:19,381 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/contenttype/3.4.200-v20140207-1251/contenttype-3.4.200-v20140207-1251.pom
+2015-12-28 16:16:19,444 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/contenttype/3.4.200-v20140207-1251/contenttype-3.4.200-v20140207-1251.pom
+2015-12-28 16:16:19,475 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/app/maven-metadata.xml
+2015-12-28 16:16:19,553 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/app/maven-metadata.xml
+2015-12-28 16:16:19,600 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/app/1.3.100-v20130327-1442/app-1.3.100-v20130327-1442.pom
+2015-12-28 16:16:19,646 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/app/1.3.100-v20130327-1442/app-1.3.100-v20130327-1442.pom
+2015-12-28 16:16:19,693 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/app/1.3.200-v20130910-1609/app-1.3.200-v20130910-1609.pom
+2015-12-28 16:16:19,759 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/app/1.3.200-v20130910-1609/app-1.3.200-v20130910-1609.pom
+2015-12-28 16:16:19,899 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2015-12-28 16:16:19,946 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2015-12-28 16:16:19,977 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2015-12-28 16:16:20,055 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2015-12-28 16:16:20,164 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-tools/4.3.1.Final/hibernate-tools-4.3.1.Final.jar
+2015-12-28 16:16:20,242 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-tools/4.3.1.Final/hibernate-tools-4.3.1.Final.jar
+2015-12-28 16:16:20,258 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.10.Final/hibernate-core-4.3.10.Final.jar
+2015-12-28 16:16:20,554 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.10.Final/hibernate-core-4.3.10.Final.jar
+2015-12-28 16:16:20,570 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar
+2015-12-28 16:16:20,648 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar
+2015-12-28 16:16:20,663 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar
+2015-12-28 16:16:20,726 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar
+2015-12-28 16:16:20,727 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar
+2015-12-28 16:16:20,808 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar
+2015-12-28 16:16:20,823 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2015-12-28 16:16:20,933 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2015-12-28 16:16:20,964 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar
+2015-12-28 16:16:21,042 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar
+2015-12-28 16:16:21,057 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2015-12-28 16:16:21,135 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2015-12-28 16:16:21,151 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.10.Final/hibernate-entitymanager-4.3.10.Final.jar
+2015-12-28 16:16:21,245 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.10.Final/hibernate-entitymanager-4.3.10.Final.jar
+2015-12-28 16:16:21,260 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar
+2015-12-28 16:16:21,354 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar
+2015-12-28 16:16:21,369 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.jar
+2015-12-28 16:16:21,416 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.jar
+2015-12-28 16:16:21,432 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.jar
+2015-12-28 16:16:21,479 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.jar
+2015-12-28 16:16:21,494 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2015-12-28 16:16:21,557 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2015-12-28 16:16:21,572 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.jar
+2015-12-28 16:16:21,635 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.jar
+2015-12-28 16:16:21,635 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar
+2015-12-28 16:16:21,697 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar
+2015-12-28 16:16:21,697 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar
+2015-12-28 16:16:21,761 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar
+2015-12-28 16:16:21,777 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 16:16:21,808 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/freemarker/freemarker/2.3.8/freemarker-2.3.8.jar
+2015-12-28 16:16:22,089 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/freemarker/freemarker/2.3.8/freemarker-2.3.8.jar
+2015-12-28 16:16:22,105 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/jtidy/r8-20060801/jtidy-r8-20060801.jar
+2015-12-28 16:16:22,167 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/jtidy/r8-20060801/jtidy-r8-20060801.jar
+2015-12-28 16:16:22,183 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/tycho/org.eclipse.jdt.core/3.9.1.v20130905-0837/org.eclipse.jdt.core-3.9.1.v20130905-0837.jar
+2015-12-28 16:16:22,448 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/tycho/org.eclipse.jdt.core/3.9.1.v20130905-0837/org.eclipse.jdt.core-3.9.1.v20130905-0837.jar
+2015-12-28 16:16:22,479 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/text/3.3.0-v20070606-0010/text-3.3.0-v20070606-0010.jar
+2015-12-28 16:16:22,557 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/text/3.3.0-v20070606-0010/text-3.3.0-v20070606-0010.jar
+2015-12-28 16:16:22,557 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/commands/3.3.0-I20070605-0010/commands-3.3.0-I20070605-0010.jar
+2015-12-28 16:16:22,635 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/commands/3.3.0-I20070605-0010/commands-3.3.0-I20070605-0010.jar
+2015-12-28 16:16:22,651 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/runtime/3.9.0-v20130326-1255/runtime-3.9.0-v20130326-1255.jar
+2015-12-28 16:16:22,729 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/runtime/3.9.0-v20130326-1255/runtime-3.9.0-v20130326-1255.jar
+2015-12-28 16:16:22,730 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/osgi/3.10.0-v20140606-1445/osgi-3.10.0-v20140606-1445.jar
+2015-12-28 16:16:22,890 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/osgi/3.10.0-v20140606-1445/osgi-3.10.0-v20140606-1445.jar
+2015-12-28 16:16:22,905 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/jobs/3.6.0-v20140424-0053/jobs-3.6.0-v20140424-0053.jar
+2015-12-28 16:16:22,968 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/jobs/3.6.0-v20140424-0053/jobs-3.6.0-v20140424-0053.jar
+2015-12-28 16:16:22,983 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/registry/3.5.400-v20140428-1507/registry-3.5.400-v20140428-1507.jar
+2015-12-28 16:16:23,077 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/registry/3.5.400-v20140428-1507/registry-3.5.400-v20140428-1507.jar
+2015-12-28 16:16:23,092 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/preferences/3.5.200-v20140224-1527/preferences-3.5.200-v20140224-1527.jar
+2015-12-28 16:16:23,156 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/preferences/3.5.200-v20140224-1527/preferences-3.5.200-v20140224-1527.jar
+2015-12-28 16:16:23,156 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/core/contenttype/3.4.200-v20140207-1251/contenttype-3.4.200-v20140207-1251.jar
+2015-12-28 16:16:23,249 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/core/contenttype/3.4.200-v20140207-1251/contenttype-3.4.200-v20140207-1251.jar
+2015-12-28 16:16:23,265 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/app/1.3.200-v20130910-1609/app-1.3.200-v20130910-1609.jar
+2015-12-28 16:16:23,374 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/app/1.3.200-v20130910-1609/app-1.3.200-v20130910-1609.jar
+2015-12-28 16:16:23,374 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/equinox/common/3.6.200-v20130402-1505/common-3.6.200-v20130402-1505.jar
+2015-12-28 16:16:23,437 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/equinox/common/3.6.200-v20130402-1505/common-3.6.200-v20130402-1505.jar
+2015-12-28 16:16:23,452 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.jar
+2015-12-28 16:16:23,546 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.jar
+2015-12-28 16:16:25,984 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentApp:01_Maven_Sample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\pom.xml.
+2015-12-28 16:16:26,499 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:16:26,514 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:16:26,514 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:16:26,514 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:16:26,931 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 16:16:26,931 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\main\resources
+2015-12-28 16:16:26,931 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 16:16:26,931 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\01_Maven_Sample\src\test\resources
+2015-12-28 16:16:29,245 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject
+2015-12-28 16:16:29,245 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" compile
+2015-12-28 16:20:32,515 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:20:32,531 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:20:32,531 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:20:32,546 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:20:50,304 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:20:50,336 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:20:50,336 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:20:50,336 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:20:57,547 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-28 16:21:02,631 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject
+2015-12-28 16:21:02,631 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s "C:\JAVA Soft\Ant Mavan\Ant\apache-maven-2.2.1-bin\apache-maven-2.2.1\conf\settings.xml" compile
+2015-12-28 16:21:37,425 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:21:37,425 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:21:37,425 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:21:37,440 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:25:13,199 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/archetypes/jersey-quickstart-webapp/2.16/jersey-quickstart-webapp-2.16.pom
+2015-12-28 16:25:14,152 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/archetypes/jersey-quickstart-webapp/2.16/jersey-quickstart-webapp-2.16.pom
+2015-12-28 16:25:14,698 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/archetypes/jersey-quickstart-webapp/2.16/jersey-quickstart-webapp-2.16.jar
+2015-12-28 16:25:21,395 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/archetypes/jersey-quickstart-webapp/2.16/jersey-quickstart-webapp-2.16.jar
+2015-12-28 16:26:26,835 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\SampleRestApp\pom.xml
+2015-12-28 16:26:28,429 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.16/jersey-bom-2.16.pom
+2015-12-28 16:26:30,025 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.16/jersey-bom-2.16.pom
+2015-12-28 16:26:31,665 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2015-12-28 16:26:35,826 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2015-12-28 16:26:35,966 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:SampleRestApp:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\SampleRestApp\pom.xml.
+2015-12-28 16:26:37,780 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.16/jersey-container-servlet-core-2.16.pom
+2015-12-28 16:26:39,498 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.16/jersey-container-servlet-core-2.16.pom
+2015-12-28 16:26:40,014 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.16/project-2.16.pom
+2015-12-28 16:26:40,906 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.16/project-2.16.pom
+2015-12-28 16:26:41,420 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.16/project-2.16.pom
+2015-12-28 16:26:43,265 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.16/project-2.16.pom
+2015-12-28 16:26:43,766 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-bom/2.4.0-b09/hk2-bom-2.4.0-b09.pom
+2015-12-28 16:26:44,876 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-bom/2.4.0-b09/hk2-bom-2.4.0-b09.pom
+2015-12-28 16:26:45,547 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2015-12-28 16:26:46,814 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2015-12-28 16:26:47,424 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b09/javax.inject-2.4.0-b09.pom
+2015-12-28 16:26:48,378 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b09/javax.inject-2.4.0-b09.pom
+2015-12-28 16:26:48,833 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/2.4.0-b09/external-2.4.0-b09.pom
+2015-12-28 16:26:49,724 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/2.4.0-b09/external-2.4.0-b09.pom
+2015-12-28 16:26:50,241 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-parent/2.4.0-b09/hk2-parent-2.4.0-b09.pom
+2015-12-28 16:26:51,163 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-parent/2.4.0-b09/hk2-parent-2.4.0-b09.pom
+2015-12-28 16:26:51,694 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.16/jersey-common-2.16.pom
+2015-12-28 16:27:03,487 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.16/jersey-common-2.16.pom
+2015-12-28 16:27:05,348 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom
+2015-12-28 16:27:06,381 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom
+2015-12-28 16:27:06,835 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom
+2015-12-28 16:27:07,709 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom
+2015-12-28 16:27:08,273 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.16/jersey-guava-2.16.pom
+2015-12-28 16:27:09,476 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.16/jersey-guava-2.16.pom
+2015-12-28 16:27:09,946 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/project/2.16/project-2.16.pom
+2015-12-28 16:27:11,149 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/project/2.16/project-2.16.pom
+2015-12-28 16:27:11,648 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/project/2.16/project-2.16.pom
+2015-12-28 16:27:12,602 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/project/2.16/project-2.16.pom
+2015-12-28 16:27:13,087 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b09/hk2-api-2.4.0-b09.pom
+2015-12-28 16:27:14,337 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b09/hk2-api-2.4.0-b09.pom
+2015-12-28 16:27:14,807 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b09/hk2-utils-2.4.0-b09.pom
+2015-12-28 16:27:15,870 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b09/hk2-utils-2.4.0-b09.pom
+2015-12-28 16:27:16,447 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b09/aopalliance-repackaged-2.4.0-b09.pom
+2015-12-28 16:27:17,510 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b09/aopalliance-repackaged-2.4.0-b09.pom
+2015-12-28 16:27:18,136 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b09/hk2-locator-2.4.0-b09.pom
+2015-12-28 16:27:19,137 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b09/hk2-locator-2.4.0-b09.pom
+2015-12-28 16:27:20,106 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2015-12-28 16:27:26,534 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2015-12-28 16:27:27,207 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2015-12-28 16:27:28,582 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2015-12-28 16:27:30,333 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/pom/8/pom-8.pom
+2015-12-28 16:27:31,320 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/pom/8/pom-8.pom
+2015-12-28 16:27:31,868 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.16/jersey-server-2.16.pom
+2015-12-28 16:27:32,900 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.16/jersey-server-2.16.pom
+2015-12-28 16:27:33,401 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.16/jersey-client-2.16.pom
+2015-12-28 16:27:34,432 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.16/jersey-client-2.16.pom
+2015-12-28 16:27:35,058 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.16/jersey-media-jaxb-2.16.pom
+2015-12-28 16:27:36,186 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.16/jersey-media-jaxb-2.16.pom
+2015-12-28 16:27:37,547 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.16/project-2.16.pom
+2015-12-28 16:27:45,725 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.16/project-2.16.pom
+2015-12-28 16:27:46,721 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2015-12-28 16:27:48,096 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2015-12-28 16:27:48,847 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.16/jersey-container-servlet-core-2.16.jar
+2015-12-28 16:27:50,347 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.16/jersey-container-servlet-core-2.16.jar
+2015-12-28 16:27:50,895 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b09/javax.inject-2.4.0-b09.jar
+2015-12-28 16:27:55,616 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b09/javax.inject-2.4.0-b09.jar
+2015-12-28 16:27:56,117 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.16/jersey-common-2.16.jar
+2015-12-28 16:28:04,253 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.16/jersey-common-2.16.jar
+2015-12-28 16:28:08,086 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
+2015-12-28 16:28:10,775 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
+2015-12-28 16:28:11,541 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.16/jersey-guava-2.16.jar
+2015-12-28 16:28:17,498 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.16/jersey-guava-2.16.jar
+2015-12-28 16:28:17,796 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b09/hk2-api-2.4.0-b09.jar
+2015-12-28 16:28:20,234 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b09/hk2-api-2.4.0-b09.jar
+2015-12-28 16:28:20,608 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b09/hk2-utils-2.4.0-b09.jar
+2015-12-28 16:28:23,254 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b09/hk2-utils-2.4.0-b09.jar
+2015-12-28 16:28:23,676 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b09/aopalliance-repackaged-2.4.0-b09.jar
+2015-12-28 16:28:24,629 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b09/aopalliance-repackaged-2.4.0-b09.jar
+2015-12-28 16:28:25,084 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b09/hk2-locator-2.4.0-b09.jar
+2015-12-28 16:28:27,084 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b09/hk2-locator-2.4.0-b09.jar
+2015-12-28 16:28:27,474 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2015-12-28 16:28:28,262 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2015-12-28 16:28:28,730 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.16/jersey-server-2.16.jar
+2015-12-28 16:28:44,245 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.16/jersey-server-2.16.jar
+2015-12-28 16:28:44,681 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.16/jersey-client-2.16.jar
+2015-12-28 16:28:47,451 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.16/jersey-client-2.16.jar
+2015-12-28 16:28:47,921 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.16/jersey-media-jaxb-2.16.jar
+2015-12-28 16:28:49,576 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.16/jersey-media-jaxb-2.16.jar
+2015-12-28 16:28:49,607 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2015-12-28 16:28:50,218 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2015-12-28 16:28:50,703 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar
+2015-12-28 16:28:52,235 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar
+2015-12-28 16:28:53,002 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2015-12-28 16:28:53,704 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleRestApp/src/main/java
+2015-12-28 16:28:53,704 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SampleRestApp/src/main/resources
+2015-12-28 16:28:53,719 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleRestApp/src/test/java
+2015-12-28 16:28:54,128 [Worker-98] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:SampleRestApp:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\SampleRestApp\pom.xml.
+2015-12-28 16:28:55,518 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 148 sec
+2015-12-28 16:28:57,274 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:SampleRestApp:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\SampleRestApp\pom.xml.
+2015-12-28 16:28:58,073 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 16:28:58,073 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:28:58,073 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-28 16:28:58,073 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\SampleRestApp\src\test\resources
+2015-12-28 16:30:42,036 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:BaseProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\pom.xml.
+2015-12-28 16:30:42,114 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 16:30:42,817 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:30:42,880 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\src\main\resources
+2015-12-28 16:30:42,880 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:30:42,895 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\src\test\resources
+2015-12-28 16:30:43,490 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:30:43,490 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:30:43,490 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:30:43,506 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:31:35,596 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: PersistentSample:BaseProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\BaseProject\pom.xml.
+2015-12-28 16:31:35,674 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PersistentSample:ChildProject:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\java\javaWorkspace\mavenProjects\ChildProject\pom.xml.
+2015-12-28 16:31:36,808 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:31:36,824 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-28 16:31:36,824 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-28 16:31:36,824 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

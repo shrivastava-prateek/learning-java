@@ -3,16 +3,17 @@ package com.psl;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
 import com.bean.Booking;
 import com.bean.Credit_Card_Details;
 import com.bean.Customer;
 import com.bean.HotelRoom;
 import com.bean.Room_type;
 import com.bean.Status;
+import com.exceptions.LowBudgetException;
 import com.exceptions.MoreThanMaxAdults;
-import com.util.DBConnection;
+import com.exceptions.TooManyRoomsException;
 import com.util.HolidaySpotAdminImpl;
-import com.util.ReceptionManagerImpl;
 import com.util.VerificationOfficerImpl;
 import com.exceptions.*;
 
@@ -23,9 +24,10 @@ public class Client
 		HolidaySpotAdminImpl hs = new HolidaySpotAdminImpl();
         VerificationOfficerImpl voi = new VerificationOfficerImpl();
 		List<HotelRoom> eligible_hotels = new ArrayList<HotelRoom>();
-        Scanner s = new Scanner(System.in);
+      
 		int noRooms;
 		System.out.print("Enter no. of adults : ");
+		Scanner s = new Scanner(System.in);
 		int noAdults = s.nextInt();
 		voi.setStatus(Status.In_Progress);
 		System.out.println();
@@ -48,10 +50,11 @@ public class Client
 				System.out.println("can not accomodate more than 3 adults in a room , please add more rooms");
 				continue;
 				
-			}
-			catch (NoBudgettedRoomsAvailable e)
-			{
-				System.out.println("Increase your budget please");
+			} catch (LowBudgetException e1) {
+				System.out.println("Increase your budget this time");
+				continue;
+			} catch (TooManyRoomsException e1) {
+				System.out.println("Enter less number of rooms this time");
 				continue;
 			}
 		}
@@ -61,17 +64,15 @@ public class Client
 		{ 
 		   System.out.println(e);
 		}
-		s.close();
-		Scanner s1=new Scanner(System.in);
-        System.out.print("Select a Hotel : ");
-		String selectedhotel = s1.nextLine();
-		System.out.println();
-		
-		System.out.print("Select its room type");
-		String room_type =s1.nextLine();
-		Room_type rt=Room_type.valueOf(room_type);
+		s.nextLine();
+        System.out.print("Select a Hotel :");
+		String selectedhotel = s.nextLine();
+		System.out.println(selectedhotel);
+		System.out.println("Select its room type");
+		String room_type =s.nextLine();
 		voi.setStatus(Status.Waiting_For_User_Updates);
 		System.out.println();
+		Room_type rt=Room_type.valueOf(room_type);
 		
 		System.out.println(voi.check_status());
 		HotelRoom h1 = null;
@@ -85,7 +86,7 @@ public class Client
 			}
 		}
 		System.out.print("Do you finally want to book a room: press 1 for yes or 0 for no : ");
-		int inp=s1.nextInt();
+		int inp=s.nextInt();
 		System.out.println();
 		
 		if (inp == 1)
@@ -106,8 +107,6 @@ public class Client
 							   + hs.calculateCommision(voi));
 		}
 		System.out.println("Thank you. Visit us again");
-		s1.close();
 
 	}
-
 }
