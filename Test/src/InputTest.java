@@ -55,7 +55,7 @@ public class InputTest
 				}
 				if(flag==true){
 					while(!(b.equalsIgnoreCase(s2))){
-						file.write(b+" Yellow "
+						//file.write(b+" Yellow ");
 					}
 				}
 

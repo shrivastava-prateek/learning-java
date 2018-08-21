@@ -2,11 +2,11 @@ import java.io.*;
 import java.util.Random;
 
 
-class Sample
+class Sample2
 {   
 	int a=0;
 	String b;
-	Sample()
+	Sample2()
 	{
 		a = 15;
 		b = "Datia";
